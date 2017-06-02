@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_juxing.png",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\drawable-xhdpi\\icon_juxing.png"
+    },
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bluetooth_connect_bg.png",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth_connect_bg.png"
+    },
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bluetooth_lind.png",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth_lind.png"
+    },
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

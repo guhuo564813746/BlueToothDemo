@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure_result.xml",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\layout\\activity_measure_result.xml"
+    },
+    {
+        "merged": "F:\\BleProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth.xml",
+        "source": "F:\\BleProject\\app\\src\\main\\res\\layout\\bluetooth.xml"
+    }
+]
