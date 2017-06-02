@@ -5,4 +5,5 @@ package com.iknet.bloodmeasuredemo;
  */
 
 public class MyApplication {
+    public static String nothing;
 }
