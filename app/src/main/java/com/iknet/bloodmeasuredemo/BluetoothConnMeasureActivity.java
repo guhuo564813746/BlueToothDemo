@@ -42,6 +42,7 @@ public class BluetoothConnMeasureActivity extends Activity implements OnClickLis
 	private Button btn_stop_measure;
 	private Animation operatingAnim;
 	private BluetoothManager bluetoothManager;
+	private  String nothing;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
